@@ -13,6 +13,9 @@ apt -y install \
   firefox-esr \
   flatpak \
   htop \
+  kate \
+  kcalc \
+  kde-spectacle \
   neofetch \
   spectacle \
   vlc \
