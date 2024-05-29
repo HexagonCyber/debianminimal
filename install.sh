@@ -17,6 +17,4 @@ apt -y install \
   kcalc \
   kde-spectacle \
   neofetch \
-  spectacle \
-  vlc \
-  zsh
+  vlc
